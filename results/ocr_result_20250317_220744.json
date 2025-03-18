@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-03-17 22:07:44",
+  "image_path": "images/1742216223472.jpg",
+  "ocr_result": {
+    "code": 50207,
+    "data": null,
+    "message": "Image Decode Error: image format unsupported",
+    "request_id": "20250317220743AF35DCFB02ED8B3015A5",
+    "status": 50207,
+    "time_elapsed": "194.728538ms"
+  }
+}
